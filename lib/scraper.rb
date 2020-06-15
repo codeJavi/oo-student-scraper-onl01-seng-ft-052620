@@ -1,4 +1,4 @@
-require 'open-uri'
+require 'open-url'
 
 class Scraper
 
